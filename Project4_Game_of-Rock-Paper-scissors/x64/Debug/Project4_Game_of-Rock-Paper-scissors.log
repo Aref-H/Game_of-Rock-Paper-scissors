@@ -1,0 +1,5 @@
+﻿  main.c
+E:\Project\New\Visual stadio\C language\Project4_Game_of-Rock-Paper-scissors\Project4_Game_of-Rock-Paper-scissors\main.c(24,12): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+E:\Project\New\Visual stadio\C language\Project4_Game_of-Rock-Paper-scissors\Project4_Game_of-Rock-Paper-scissors\main.c(24,12): warning C4024: 'startMenu': different types for formal and actual parameter 1
+E:\Project\New\Visual stadio\C language\Project4_Game_of-Rock-Paper-scissors\Project4_Game_of-Rock-Paper-scissors\main.c(21,22): warning C4101: 'computer': unreferenced local variable
+  Project4_Game_of-Rock-Paper-scissors.vcxproj -> E:\Project\New\Visual stadio\C language\Project4_Game_of-Rock-Paper-scissors\x64\Debug\Project4_Game_of-Rock-Paper-scissors.exe
